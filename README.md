@@ -33,7 +33,7 @@ Outside Intel I build products end-to-end — from database schema to deployed f
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-E34F26?style=flat&logoColor=white)
 ![Tessent](https://img.shields.io/badge/Tessent-0071C5?style=flat&logoColor=white)
 ![DFT](https://img.shields.io/badge/DFT-555?style=flat&logoColor=white)
-![JTAG](https://img.shields.io/badge/JTAG-555?style=flat&logoColor=white)
+![RESET](https://img.shields.io/badge/JTAG-555?style=flat&logoColor=white)
 
 **Languages**
 
