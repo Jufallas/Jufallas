@@ -2,7 +2,7 @@
 
 # Juan Sebastian Fallas Webb
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A8D80A&center=true&vCenter=true&width=640&lines=AI%2FML+Engineer+%26+Full-Stack+Developer+%40+Gaudi+AI;Building+agentic+systems+that+price+the+real+world;Electrical+Engineer+turned+software+builder;Ex-Intel+Silicon%2FDFT+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A8D80A&center=true&vCenter=true&width=820&lines=AI%2FML+Engineer+%26+Full-Stack+Developer+%40+Gaudi+AI;Building+agentic+systems+that+price+the+real+world;Electrical+and+Electronics+Engineer+turned+builder;Ex-Intel+Silicon%2FDFT+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jufallas)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jufallas)
@@ -159,12 +159,10 @@ embeddings. Built to scale across multiple concurrent events with a clean mobile
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jufallas&show_icons=true&theme=dark&bg_color=0d1117&title_color=a8d80a&icon_color=a8d80a&text_color=c9d1d9&border_color=30363d&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jufallas&layout=compact&theme=dark&bg_color=0d1117&title_color=a8d80a&text_color=c9d1d9&border_color=30363d&langs_count=8)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jufallas&show_icons=true&theme=dark&bg_color=0d1117&title_color=a8d80a&icon_color=a8d80a&text_color=c9d1d9&border_color=30363d&count_private=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jufallas&layout=compact&theme=dark&bg_color=0d1117&title_color=a8d80a&text_color=c9d1d9&border_color=30363d&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jufallas&theme=dark&hide_border=true&background=0d1117&ring=a8d80a&fire=a8d80a&currStreakLabel=a8d80a&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=a8d80a)](https://git.io/streak-stats)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jufallas&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8)
 
 </div>
 
