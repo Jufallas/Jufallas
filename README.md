@@ -2,9 +2,9 @@
 
 # Juan Sebastian Fallas Webb
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A8D80A&center=true&vCenter=true&width=820&lines=AI%2FML+Engineer+%26+Full-Stack+Developer+%40+Gaudi+AI;Building+agentic+systems+that+price+the+real+world;Electrical+and+Electronics+Engineer+turned+builder;Ex-Intel+Silicon%2FDFT+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A8D80A&center=true&vCenter=true&width=820&lines=AI%2FML+Software+Engineer+%26+Full-Stack+Dev+%40+Gaudi+AI;Computer+vision+and+LLMs+that+read+blueprints;From+silicon+validation+to+AI+systems;Ex-Intel+Software+Engineer%2C+Xeon+DFT+and+reset)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jufallas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsfw7698)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jufallas)
 ![Profile views](https://komarev.com/ghpvc/?username=Jufallas&color=a8d80a&style=flat&label=profile+views)
 
@@ -17,40 +17,40 @@ $ whoami
 > juan-sebastian-fallas-webb
 
 $ cat current_role.txt
-> AI/ML Engineer & Full-Stack Developer @ Gaudi AI
-> Building the agentic pipeline that turns a blueprint into a priced, biddable estimate
+> AI/ML Software Engineer & Full-Stack Developer @ Gaudi AI
+> Building AI that turns construction drawings into priced estimates
 
 $ cat background.txt
-> Electrical & Electronics Engineer (ITCR)
-> Formerly: Silicon Debug & DFT Engineer @ Intel — Xeon product development
+> Electronic Engineering, Instituto Tecnológico de Costa Rica (TEC)
+> Formerly: Software Engineer @ Intel, Xeon DFT, Reset and Vectors
 
 $ echo $CURRENTLY_BUILDING
-> Multi-agent browser automation · LLM-grounded data pipelines · cloud-native services on Azure
+> Computer vision + VLMs for blueprints · LLM agents · cloud services on Azure
 ```
 
 ---
 
 ### About me
 
-I'm an AI/ML Engineer and full-stack developer at **Gaudi AI**, where I own the pricing intelligence
-layer of an AI-driven construction-estimating platform — the piece that takes a raw material request
-and turns it into a trustworthy, real-supplier-backed price range, end to end: browser-automation
-agents that navigate live retailer sites, LLM-based matching that never fabricates a result it can't
-justify, and a service deployed on real cloud infrastructure serving the rest of the pipeline.
+I'm an AI/ML Software Engineer and Full-Stack Developer at **Gaudi AI**, an AI takeoff and
+estimating platform that turns construction drawings into estimates for contractors. I build
+computer-vision, OCR and vision-language-model systems that read blueprints, and LLM agents that
+price materials from real suppliers, and I measure every one of them against real ground truth.
 
-Before Gaudi, I spent my early career on Intel's **Xeon microprocessor product development** team as
-a Silicon Debug & DFT Engineer — scan chain integration, multi-domain reset validation, and
-software-driven silicon bring-up. That background is why I build software the way I do: systems that
-fail loudly instead of silently, and that never claim more confidence than the data supports.
+Before Gaudi, I spent four years on Intel's **Xeon microprocessor product development** team: first
+as a student worker in silicon validation, then as a Software Engineer on DFT, reset and vector
+flows (scan chain integration, multi-domain reset validation, software-driven silicon bring-up).
+That background is why I build software the way I do: systems that fail loudly instead of silently,
+and that never claim more confidence than the data supports.
 
-- 🤖 Agentic AI systems: LLM-orchestrated browser agents, structured-output verification, multi-step
-  trust gates (never trust a single pass when a cheap second check catches real mistakes)
+- 🤖 Applied AI: LLM and VLM systems, OCR, computer vision, evaluation against ground truth
 - ☁️ Cloud-native services: Azure Container Apps, Service Bus, Postgres/Supabase, Docker
-- 🔩 Hardware-to-software range: comfortable from Verilog/SystemVerilog silicon debug down to
+- 🔩 Hardware-to-software range: comfortable from Verilog/SystemVerilog silicon work to
   production Python services and React frontends
-- 🚀 Contributed to **AREX** (space instrumentation research) and an **IEEE-published** Braille
-  electronic board game
-- 🎓 B.S. Electrical & Electronics Engineering — Instituto Tecnológico de Costa Rica (ITCR)
+- 🚀 Contributed to **Project Polaris** (Titan rover instrumentation) and an **IEEE-published**
+  Braille electronic board game
+- 🎓 Electronic Engineering (Licenciatura), Instituto Tecnológico de Costa Rica (TEC): coursework
+  completed, thesis pending
 
 ---
 
@@ -111,24 +111,22 @@ fail loudly instead of silently, and that never claim more confidence than the d
 
 | Language | Proficiency |
 |----------|-------------|
-| 🇨🇷 Spanish | Native / Bilingual |
+| 🇨🇷 Spanish | Native |
 | 🇺🇸 English | Full Professional |
-| 🇧🇷 Portuguese | Limited Working |
+| 🇧🇷 Portuguese | Basic |
 
 ---
 
 ### Projects
 
-#### Pricing Intelligence Service — Gaudi AI
-> The material-pricing layer behind an AI-driven construction-estimating platform.
+#### Blueprint takeoff and material pricing, Gaudi AI
+> AI that reads construction drawings and prices the materials in them.
 
-Resolves free-text material requests and real client addresses into a trustworthy price range,
-backed by live multi-supplier data — not a single guessed number. Multi-agent browser automation
-navigates real retailer sites, an LLM-based matching layer never forces a match it can't justify (a
-no-match always comes with a real reason), and the whole thing runs as a deployed cloud service with
-its own background refresh cycle. Private/internal — happy to talk through the architecture directly.
+Computer vision, OCR and vision-language models that read construction drawings, plus LLM agents
+that price materials from real suppliers, each one measured against real ground truth. Private,
+internal work; happy to talk through it in an interview.
 
-`Python` `LLM Agents` `Azure Container Apps` `Service Bus` `Postgres` `PostGIS`
+`Python` `VLMs` `OCR` `Computer Vision` `LLM Agents` `Azure`
 
 ---
 
@@ -142,16 +140,6 @@ YOLO-based bib detection pipeline that processes thousands of photos per race.
 `Next.js` `FastAPI` `PostgreSQL (Neon)` `Cloudflare R2` `MapLibre GL` `YOLO` `Python`
 
 🔗 [archivorunner.com](https://archivorunner.com)
-
----
-
-#### Popshot
-> Selfie-based event photo search — find yourself in any crowd.
-
-Upload a selfie at an event and the platform surfaces every photo you appear in using face
-embeddings. Built to scale across multiple concurrent events with a clean mobile-first UI.
-
-`Next.js` `FastAPI` `PostgreSQL` `Face recognition` `Python`
 
 ---
 
@@ -175,5 +163,5 @@ embeddings. Built to scale across multiple concurrent events with a clean mobile
 ---
 
 <div align="center">
-<sub>EE by training · AI/ML engineer by trade · builder by night</sub>
+<sub>Electronics by training · AI/ML engineer by trade · builder by night</sub>
 </div>
